@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background: linear-gradient(rgb(136, 136, 185), rgb(212, 165, 165));
+  margin-left: 15rem;
+  margin-right: 15rem;
+  margin-top: 4rem;
+  padding-bottom: 2rem;
+  padding-top: 1rem;
+  border-radius: 1rem;
+}
+
+.counterapp{
+  color:rgb(20, 30, 37);
+  background: linear-gradient(rgb(245, 239, 130), rgb(229, 203, 203));
+  margin-left: 10rem;
+  margin-right: 10rem;
+  border-radius: 2rem;
+}
+
+.counter{
+  color: white;
+  background-color: rgb(63, 52, 52);
+  margin-left: 15rem;
+  margin-right: 15rem;
+  border-radius: 1rem;
+}
+.button{
+     background-color: rgb(83, 153, 83);
+     margin-right: 0.5rem;
+     color: rgb(252, 249, 249);
+     cursor: pointer;
+}
+.button:hover {
+  background-color: aliceblue;
+  color:rgb(0, 0, 0);
+}
+
+.button3{
+  background-color: rgb(194, 233, 137);
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+.button3:hover{
+      background-color: rgb(98, 147, 56);
+      color:aliceblue;
+}
